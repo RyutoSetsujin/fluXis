@@ -38,10 +38,10 @@ fluXis is licensed under the [MIT License](LICENSE). tl;dr: You can do whatever 
 
 ## Star History
 
-<a href="https://star-history.com/#InventiveRhythm/fluXis&Date">
+<a href="https://www.star-history.com/#RyutoSetsujin/fluXis&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=InventiveRhythm/fluXis&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=InventiveRhythm/fluXis&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=InventiveRhythm/fluXis&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=RyutoSetsujin/fluXis&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=RyutoSetsujin/fluXis&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RyutoSetsujin/fluXis&type=Date" />
  </picture>
-</a >
+</a>
